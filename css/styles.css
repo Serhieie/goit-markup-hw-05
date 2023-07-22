@@ -779,11 +779,17 @@ header .container {
   margin-bottom: 16px;
 }
 
-.modal-form-container {
+.modal-form {
   display: flex;
   flex-direction: column;
   gap: 8px;
 }
+
+/* .modal-form-container {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+} */
 
 .form-labels {
   display: block;
