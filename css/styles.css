@@ -498,7 +498,6 @@ header .container {
 
 .social-media-list {
   display: flex;
-  flex-wrap: wrap;
   gap: 16px;
 }
 
@@ -538,8 +537,6 @@ header .container {
 }
 
 .subscribe-form {
-  display: flex;
-  gap: 24px;
   margin-left: 80px;
 }
 
@@ -789,11 +786,11 @@ header .container {
   margin-bottom: 16px;
 }
 
-/* .modal-form {
+.modal-form {
   display: flex;
   flex-direction: column;
   gap: 8px;
-} */
+}
 
 .modal-form-container {
   display: flex;
