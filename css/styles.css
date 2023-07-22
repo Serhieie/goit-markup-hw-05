@@ -851,17 +851,6 @@ header .container {
   fill: var(--primary-brand);
 }
 
-.form-labels-textarea {
-  margin-bottom: 8px;
-
-  display: block;
-  color: var(--subtle-text);
-  font-size: 12px;
-  font-weight: 400;
-  line-height: 1.17;
-  letter-spacing: 0.04em;
-}
-
 .form-textarea {
   margin-bottom: 16px;
 }
